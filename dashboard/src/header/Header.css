@@ -1,0 +1,30 @@
+.header{
+    border-bottom: 1px solid black;
+    display: flow-root;
+}
+
+.header ul{
+    list-style-type: none;
+    display: flex;
+}
+
+.nav-links{
+    float: left;
+}
+
+.user-links{
+    float: right;
+}
+
+ul li{
+    padding: 0 12px;
+}
+
+ul li a{
+    text-decoration:none;
+    color: black;
+}
+
+.fa{
+    padding-right: 5px;
+}
